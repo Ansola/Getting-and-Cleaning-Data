@@ -27,5 +27,10 @@ For each record in the dataset it is provided:
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
+Uploaded activities and names
+
+Combined training and test data
+
+Extracted mean and standard deviation for each measurement
 
 
