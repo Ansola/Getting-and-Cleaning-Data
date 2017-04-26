@@ -1,5 +1,5 @@
 ##This merges the training and test set into one and cleans the combined data set,
-## as well as writing the cleaned data set into TidyData.txt.
+## as well as writing the cleaned data set into tidy_data.txt.
 
  activities <- read.table("./UCI HAR Dataset/activities.txt")[,2]
  features <- read.table("./UCI HAR Dataset/features.txt")[,2]
